@@ -433,6 +433,7 @@
 "Assets/Scripts/Core/DisposableClass.cs"
 "Assets/Scripts/Core/StateManagement/GameMachine.cs"
 "Assets/Scripts/Core/StateManagement/IGameState.cs"
+"Assets/Scripts/GamePlay/BridgeDissolveController.cs"
 "Assets/Scripts/GamePlay/CameraFollower.cs"
 "Assets/Scripts/GamePlay/PlayerController.cs"
 "Assets/Scripts/Installers/Factories/WindowInjectFactory/CustomWindowFactory.cs"
